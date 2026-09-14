@@ -82,4 +82,4 @@ class RegularCustomer(Discount):
 
 class PremiumCustomer(Discount):
     def get_discount(self):
-        return 20
+        return 20  
