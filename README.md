@@ -1,5 +1,5 @@
 #Python-OOP-Project-Student-Report-Card-Generator  
-class Student:
+class Student:  
 
     de f __init__(self, roll_no, name):
         self.roll_no = roll_no
